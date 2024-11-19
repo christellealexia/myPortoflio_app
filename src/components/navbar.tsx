@@ -2,12 +2,12 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    < div className="mt-7 px-32 flex gap-64 uppercase">
+    < div className="mt-7 px-32 flex gap-80 uppercase font-serif">
       <div>
-        <p>Portoflio</p>
+        <p className='text-blue-800 font-bold '>Portofolio</p>
       </div>
       <div>
-      <li className=" flex list-none gap-10">
+      <li className="flex list-none gap-10">
         <ul>HomePage</ul>
         <ul>About me</ul>
         <ul>Services</ul>
