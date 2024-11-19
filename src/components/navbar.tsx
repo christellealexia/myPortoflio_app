@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    < div className=" px-32 flex gap-64 uppercase">
+    < div className="mt-7 px-32 flex gap-64 uppercase">
       <div>
         <p>Portoflio</p>
       </div>
