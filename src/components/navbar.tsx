@@ -10,8 +10,8 @@ export default function Navbar() {
       <li className="flex list-none gap-10">
         <ul>Home</ul>
         <ul>About me</ul>
-        <ul>Services</ul>
         <ul>Work</ul>
+        <ul>Services</ul>
         <ul>Contact</ul>
       </li>
       </div>
