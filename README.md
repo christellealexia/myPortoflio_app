@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# My portolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio! This is a showcase of my projects, skills, and experiences in software development.
+
+## Description
+This is a a portofolio built to showcase the projects I have been working on and be able to use some cool animation.
+
+## ✨ Features  
+- ⚡ Fast and responsive design  
+- 🎨 Styled with Tailwind CSS  
+- 🌓 Light/Dark mode support  
+- 📧 Contact form with EmailJS 
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Deployment:** Netlify  
+- **Animations:** Framer Motion  
+- **Contact Form:** EmailJS 
+  
 
 ## Available Scripts
 
