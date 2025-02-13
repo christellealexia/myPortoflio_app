@@ -2,12 +2,12 @@ import React from 'react'
 
 function Herosection() {
   return (
-    <div className='bg-blue-400 flex'>
+    <div className='bg-blue-400 p-36 flex items-center align-middle gap-10'>
         <div>
-
+<h1>Software engineer</h1>
         </div>
-      <div className='bg-blue-500 rounded-full flex items-center'>
-        <img className='h-72' alt = 'Developer' src = '/Christelle.png'></img>
+      <div className='bg-blue-500 rounded-full w-60 h-60'>
+        <img className='object-cover' alt = 'Developer' src = '/Christelle.png'></img>
       </div>
       <div className='w-64'>
         <h1 className='text-blue-600'>Hi I am Christelle</h1>
