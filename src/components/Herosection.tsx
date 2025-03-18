@@ -1,10 +1,11 @@
 import React from 'react'
+import ChangeText from './Changingtext'
 
 function Herosection() {
   return (
     <div className='bg-blue-400 p-36 flex items-center align-middle gap-10'>
         <div>
-<h1>Software engineer</h1>
+<h1> <ChangeText /></h1>
         </div>
       <div className='bg-blue-500 rounded-full w-60 h-60'>
         <img className='object-cover' alt = 'Developer' src = '/Christelle.png'></img>
